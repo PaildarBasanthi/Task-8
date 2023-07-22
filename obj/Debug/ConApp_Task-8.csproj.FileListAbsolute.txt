@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\bin\Debug\ConApp_Task-8.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\bin\Debug\ConApp_Task-8.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\bin\Debug\ConApp_Task-8.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\obj\Debug\ConApp_Task-8.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\obj\Debug\ConApp_Task-8.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\obj\Debug\ConApp_Task-8.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\obj\Debug\ConApp_Task-8.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConApp_Task-8\ConApp_Task-8\obj\Debug\ConApp_Task-8.pdb
